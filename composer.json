@@ -1,6 +1,6 @@
 {
     "name": "lunfel/october-translatable-trait",
-    "description": "Enables to easily setup the locale in OctoberCMS plugin components",
+    "description": "Allows to easily setup the locale in OctoberCMS plugin components",
     "authors": [
         {
             "name": "lunfel",
